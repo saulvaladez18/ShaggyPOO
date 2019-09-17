@@ -4,7 +4,7 @@
 
 1. Descarga el Archivo de Dotnet Core 2.2 - https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.402-windows-x64-installer
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Dotnet.Core](file:///C:/Users/ITT/Pictures/Dotnet%20Core.PNG)
 
 
 2. Corre el Instalacion de Dotnet Core 2.2 
