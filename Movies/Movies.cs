@@ -1,7 +1,7 @@
 ﻿using System;
 	using System.Collections.Generic;
 	
-	namespace peliculajairo
+	namespace peliculaSaulValadez
 	{
 	    class Pelicula
 	    {
